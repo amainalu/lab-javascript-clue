@@ -17,7 +17,7 @@ drOrchid<br>
 firstName: Doctor<br>
 lastName: Orchid<br>
 occupation: Scientist<br>
-age: 26<br>
+age: 26<br
 description: PhD in plant toxicology. Adopted daughter of Mr. Boddy<br>
 image: http://www.radiotimes.com/uploads/images/Original/111967.jpg<br>
 color: white<br>
